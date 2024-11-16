@@ -1,0 +1,304 @@
+@media (min-width: 300px) and (max-width: 575.98px) { 
+
+
+    #bannner_part{
+        padding-bottom: 50px;
+    }
+
+    header .container {
+      
+        justify-content: space-between  ;
+    }
+    
+    
+
+    img {
+        display: block ;
+        margin-bottom: 13px;
+        width: 64%;
+        
+    }
+
+
+
+
+    #comitted-part {
+        padding: 12px 0;
+    }
+
+
+
+    #bannner_part .main_banner .banner_text {
+        text-align: center;
+    }
+    
+    #bannner_part .main_banner .banner_text h1 {
+        font-size: 30px;
+        line-height: 40px;
+        padding-left: 6px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+  
+   
+
+    #bannner_part .main_banner .banner_text p {
+        font-size: 18px !important;
+        line-height: 34px !important;
+        margin-bottom: 15px !important;
+        padding-left: 3px !important;
+        text-align: center !important;
+    }
+    
+
+  
+    #bannner_part .main_banner .banner_text input {
+        
+        width: 189px !important;
+        margin-bottom: 20 !important;
+    }
+
+
+
+    #comitted-part .text p {
+        font-size: 15px !important;
+        line-height: 16px !important;
+        text-align: justify !important;
+        margin-top: 27px;
+    }
+
+
+    .titles p {
+        width: 100% !important;
+     
+        font-size: 12px !important;
+        line-height: 25px !important;
+        text-align: center !important;
+       
+      
+    }
+
+
+    #comitted-part .title h2 {
+      
+        line-height: 40px;
+        
+    }
+
+    #comitted-part .text {
+       
+        padding: 38px 0.25px;
+    }
+
+    .venoratio {
+        max-width: 100% !important;
+      
+    }
+
+
+    #about_part .about_text .inner_text {
+        width: auto;
+    }
+
+
+    .titles h2 {
+        
+        margin-top: -69px;
+    }
+   
+
+    element {
+        width: 100%;
+        padding-top: 0px;
+    }
+
+
+
+
+
+    #event .event_text_slider .right {
+      
+        right: 100px;
+        bottom: 100%;
+        
+      }
+
+
+
+
+
+      #event .event_text_slider .left {
+       
+      
+        right: 150px;
+        bottom: 100%;
+    }
+
+ 
+
+    #event .btn_button button {
+        padding: 13px 10px;
+        
+        height: 100%;
+    }
+
+
+    #event .event_text_slider .btn_button p {
+      
+        font-weight: 389;
+        font-size: 13px;
+        line-height: 15px;
+        
+    }
+   
+
+    #event .event_text_slider {
+        margin-top: 55px;
+       
+       
+    }
+
+
+
+    #service_part {
+        padding: 104px 0 50px;
+        
+    }
+
+
+
+    #counter_part {
+        margin: 190px 0 100px;
+       ;
+        
+    }
+  
+    .count{
+        position: static;
+        margin: 0 auto 17px;
+
+    }
+
+
+
+
+    #footer_part .container .title p {
+        
+        width: auto;
+    }
+
+    #footer_part .form_part .texts h4 {
+      
+        font-size: 32px;
+        
+      
+        width: auto;
+    }
+
+
+
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media ( min-width: 320px) and ( max-width: 575.98px) {
+
+    header .container {
+      
+        justify-content: space-between !important ;
+    }
+    
+    
+
+    img {
+        display: block;
+        margin-bottom: 13px;
+        width: 64%;
+        
+    }
+
+
+
+    
+
+    element {
+        
+        margin-top: 20px !important;
+    }
+    
+    #bannner_part .main_banner .banner_text h1 {
+     
+     
+        font-size: 42px;
+        line-height: 58px;
+        padding-left: -1px;
+        margin-bottom: 30px;
+        text-align: center;
+       
+    }
+
+   
+
+
+    #bannner_part .main_banner .banner_text p {
+       
+        font-size: 18px !important;
+        line-height: 34px !important;
+        margin-bottom: 36px !important;
+        padding-left: 3px !important;
+        text-align: center !important;
+      
+    }
+
+  
+    #bannner_part .main_banner .banner_text input {
+        
+        width: 189px !important;
+        margin-bottom: 20 !important;
+    }
+
+
+
+    #comitted-part .text p {
+        
+        font-size: 10px !important;
+        line-height: 18px !important;
+        text-align: justify !important;
+      
+    }
+
+
+    .titles p {
+        width: 100% !important;
+     
+        font-size: 12px !important;
+        line-height: 25px !important;
+        text-align: center !important;
+       
+      
+    }
+
+} */
